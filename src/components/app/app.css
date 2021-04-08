@@ -1,0 +1,9 @@
+.list{
+    display: inline-block;
+}
+.page{
+    display: flex;
+}
+.pokemonInfo{
+    margin-top: 50px;
+}
